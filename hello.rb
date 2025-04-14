@@ -1,1 +1,1 @@
-puts "Hello Batch 2014!!!!!"
+puts "Hello Batch 2014!"
